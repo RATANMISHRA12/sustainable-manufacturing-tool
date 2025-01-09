@@ -1,0 +1,10 @@
+[
+    {
+        "material": "Biodegradable Plastic",
+        "description": "A plastic that decomposes naturally."
+    },
+    {
+        "material": "Recycled Polyethylene",
+        "description": "Made from recycled materials."
+    }
+]
