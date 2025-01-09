@@ -84,6 +84,8 @@ Response (JSON):
   "shipping": "Use carbon-neutral shipping methods."
 }
 
+![Alt text](image.png)
+
 2. / (GET)
 The home endpoint that provides a simple message (optional):
 
